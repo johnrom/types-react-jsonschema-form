@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/react-jsonschema-form",
+        "scope": "@types",
+        "escapedName": "@types%2freact-jsonschema-form",
+        "name": "@types/react-jsonschema-form",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\John\\Documents\\projects\\dotnet\\ReactApp\\ReactApp"
+    ]
+  ],
+  "_from": "@types/react-jsonschema-form@latest",
+  "_id": "@types/react-jsonschema-form@0.51.1",
+  "_inCache": true,
+  "_location": "/@types/react-jsonschema-form",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-jsonschema-form-0.51.1.tgz_1510766345122_0.01836311095394194"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/react-jsonschema-form",
+    "scope": "@types",
+    "escapedName": "@types%2freact-jsonschema-form",
+    "name": "@types/react-jsonschema-form",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-jsonschema-form/-/react-jsonschema-form-0.51.1.tgz",
+  "_shasum": "3856ceba4be7f58001aee4ac320b68527bbf0617",
+  "_shrinkwrap": null,
+  "_spec": "@types/react-jsonschema-form",
+  "_where": "C:\\Users\\John\\Documents\\projects\\dotnet\\ReactApp\\ReactApp",
+  "contributors": [
+    {
+      "name": "Dan Fox",
+      "url": "https://github.com/iamdanfox"
+    },
+    {
+      "name": "Jon Surrell",
+      "url": "https://github.com/sirreal"
+    },
+    {
+      "name": "Ivan Jiang",
+      "url": "https://github.com/iplus26"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for react-jsonschema-form",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-Dqk0kR/Vjt02iCZHN8AGbNR4zLC99ppb6lvGBEBPF29plQSs2Y3GwOyC3g4WUbMW0YVq6wSB1FRa9/6RQw/iJw==",
+    "shasum": "3856ceba4be7f58001aee4ac320b68527bbf0617",
+    "tarball": "https://registry.npmjs.org/@types/react-jsonschema-form/-/react-jsonschema-form-0.51.1.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/react-jsonschema-form",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "typesPublisherContentHash": "f166fef8c5366755ea5f7839034d051acedca1fecae07528eca007ebbec83ac8",
+  "version": "0.51.1"
+}
