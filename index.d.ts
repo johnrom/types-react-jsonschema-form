@@ -20,6 +20,8 @@ declare module "react-jsonschema-form" {
         noHtml5Validate?: boolean;
         showErrorList?: boolean;
         validate?: (formData: any, errors: any) => any;
+        onConfigureValidator?: (ajv: Ajv.Ajv) => any;
+        onGetValidatorArgs?: (args: any) => any;
         onChange?: (e: IChangeEvent) => any;
         onError?: (e: any) => any;
         onSubmit?: (e: any) => any;
@@ -48,8 +50,6 @@ declare module "react-jsonschema-form" {
         idSchema: any;
         status: string;
     }
-
-    export function getValidator(): Ajv.Ajv;
 
     export default class Form extends React.Component<FormProps> { }
 }
